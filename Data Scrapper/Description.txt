@@ -1,0 +1,1 @@
+Data Scrapper was created in order to collect large amount of data from an online source. Because the website had a security system that prevented data minig, it simulated user input by controlling mouse and keyboard.
