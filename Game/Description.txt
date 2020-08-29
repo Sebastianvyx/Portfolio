@@ -1,0 +1,1 @@
+It's my current, not finished yet project. It's a Unity based strategic game with turn based development and real-time combat. In this folder there are only few exemplary files - not a whole project.
